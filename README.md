@@ -1,1 +1,1 @@
-Simple analysis of Toyota cars in R language.
+A data analysis project related to the automotive industry, focusing on examining the relationships between vehicle characteristics and their performance parameters. As part of the project, I performed data preparation, statistical analysis, and visualization of key information, which enabled the identification of significant patterns in the data. The project was practical in nature and focused on developing analytical skills.
